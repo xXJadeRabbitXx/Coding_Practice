@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "A",
+      "totalAverage": 63.0,
+      "courses": [
+        {
+          "id": 2,
+          "name": "History",
+          "teacher": "Mrs. P",
+          "courseAverage": 51.8
+        },
+        {
+          "id": 3,
+          "name": "Math",
+          "teacher": "Mrs. C",
+          "courseAverage": 74.2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Rust/.idea/**
+Rust/target/**
+Python/School Database/venv/**
+Python/School Database/__pycache__/**
+
