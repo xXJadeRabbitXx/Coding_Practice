@@ -1,5 +1,13 @@
-Rust/.idea/**
-Rust/target/**
+Rust/Climbing Stairs/.idea/**
+Rust/Climbing Stairs/target/**
+
+Rust/Best Time To Buy and Sell Stock/.idea/**
+Rust/Best Time To Buy and Sell Stock/target/**
+
+Rust/Find Median from Data Stream/.idea/**
+Rust/Find Median from Data Stream/target/**
+
 Python/School Database/venv/**
 Python/School Database/__pycache__/**
-
+.idea/**
+C++/Climbing Stairs/.vscode/**
